@@ -1,0 +1,11 @@
+chapt-1-the-potential-issues-of-introducing-correlations-in-path-analysis
+equivalence-of-correlation-and-latent-variable
+data
+model-defination
+results
+latent-variable
+correlation
+discussion
+about
+chapter-1-the-potential-issues-of-introducing-correlations-in-path-analysis
+issue-1-the-potential-issues-of-introducing-correlations-in-path-analysis
